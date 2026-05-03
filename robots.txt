@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-hl0spq.3depositcasino.co.nz/sitemap.xml
